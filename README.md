@@ -13,4 +13,5 @@ $\prod_{i=a}^{b} f(i)$
 ```
 ![](https://cdn.sharelatex.com/learn-scripts/images/6/64/Prod2.png)
 
+#### [Handbook from overleaf](https://www.overleaf.com/learn/latex/Integrals,_sums_and_limits)
 #### [LaTeX mathematical symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
